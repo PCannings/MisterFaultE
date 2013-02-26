@@ -1,0 +1,138 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-color:#4C4C4C;
+}
+#head
+{
+	background-color:black;
+	width:960px;
+	height:100%;
+	margin:15px auto;
+	border:2px solid;
+	border-radius:25px;
+	color:#9FDA58;
+
+}
+#staticcontent
+{
+	background-color:black;
+	width:960px;
+	height:100%;
+	margin:15px auto;
+	color:#9FDA58;
+	border:2px solid;
+	border-radius:25px;
+	margin:15px auto;
+}
+#staticBodyText
+{
+	width:760px;
+	height:100%;
+	margin-left:10%;
+	margin-left:10%;	
+}
+#footerstaticcontent
+{
+	width:760px;
+	height:100%;
+	margin-left:10%;
+	margin-left:10%;	
+}
+#tabs
+{
+	border:0px solid;
+	
+	color:#9FDA58;
+	width:760px;
+	height:100%;
+	margin-top:10px;
+	margin-left:10%;
+	margin-left:10%;
+}
+#foot
+{
+	background-color:black;
+	width:960px;
+	height:100%;
+	margin:15px auto;
+	color:#9FDA58;
+	border:2px solid;
+	border-radius:25px;
+}
+
+#loginButton
+{
+	background-color:black;
+	width:100px;
+	height:50px;
+	color:#9FDA58;
+	border: 2px solid #9FDA58;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}
+
+#RegisterButton
+{
+	background-color:black;
+	width:100px;
+	height:50px;
+	color:#9FDA58;
+	border: 2px solid #9FDA58;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}
+
+#banner
+{
+	width:960px;
+	height:100px;	
+	margin:15px auto;
+	background-image:  url(Graphics/testBanner.png);
+	border: 2px solid #9FDA58;
+ 	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}
+#bannerLink
+{
+	font-size:40px;
+	color:white;	
+}
+#loginform
+{
+	background-color:black;
+	color:#9FDA58;
+}
+#Registerform
+{
+	background-color:black;
+	color:#9FDA58;
+}
+#news
+{
+	color:#9FDA58;	
+}
+
+#members
+{
+	color:#9FDA58;	
+}
+
+#sessions
+{
+	color:#9FDA58;	
+}
+
+#sessionData
+{
+	color:#9FDA58;	
+}
+
+#faults
+{
+	color:#9FDA58;	
+}
+        
